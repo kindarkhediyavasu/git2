@@ -1,1 +1,1 @@
-# this is demostate of inti command
+# this is demostate of int command
